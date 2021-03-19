@@ -29,4 +29,10 @@ body {
 #container h1 {
   font-size: 20px;
 }
+
+#cabecera {
+  font-size: 60px;
+  color: blue;
+  background-color: red;
+}
 /*# sourceMappingURL=main.css.map */
