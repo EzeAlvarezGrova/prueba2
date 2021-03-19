@@ -15,7 +15,9 @@ body {
 
 body {
   color: white;
+  font-family: Courier;
   text-align: center;
+  background: blue;
 }
 
 #container {
